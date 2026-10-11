@@ -3,5 +3,5 @@ document.getElementById("btn").addEventListener("click", function () {
 });
 
 document.getElementById("btn-web").addEventListener("click", function () {
-  window.location.href = "https://shimocrew-app.pages.dev/";
+  window.location.href = "https://celtmen-cpu.github.io/shimo-app-v2/";
 });
